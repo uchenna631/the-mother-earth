@@ -1,1 +1,1 @@
-web: gunicorn themotherearth.wsgi
+web: gunicorn project_motherearth.wsgi
