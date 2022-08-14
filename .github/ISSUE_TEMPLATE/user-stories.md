@@ -1,7 +1,7 @@
 ---
 name: User stories
 about: User stories template for the mother earth blog
-title: ''
+title: 'USER STORY'
 labels: ''
 assignees: ''
 
